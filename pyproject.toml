@@ -1,13 +1,14 @@
 [tool.poetry]
 name = "pycount_tjams"
 version = "0.1.0"
-description = "Calculate word counts in a text file![C"
+description = "Calculate word counts in a text file!"
 authors = ["Thijs Smolders"]
 license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+matplotlib = "^3.6.1"
 
 [tool.poetry.dev-dependencies]
 
