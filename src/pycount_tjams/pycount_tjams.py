@@ -25,6 +25,7 @@ def load_text(input_file):
     
 def clean_text(text):
     """Lowercase and remove punctuation from a string.
+    TESTING WHETHER THE DOCS ACTUALLY UPDATE!!!!!!
 
     Parameters
     ----------
